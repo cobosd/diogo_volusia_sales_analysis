@@ -23,7 +23,11 @@ It is important to note, however, that regions seen in the map containing _zero_
 
 *------------------------------------------------------------ABOUT THE FILES------------------------------------------------------------------*
 
-Add crime data from Volusia county (Florida) into a sales analysis table (crime_sales_analysis)
+How to add crime data from Volusia county (Florida) into a sales analysis table to create a crime_sales_analysis table:
+
+"Volusia SA - Crime Table.pdf" is a short presentation taking you step by step on how to add crime_sales_analysis to your pgAdmin. It basically asks to download zip file in this repository and run a command on command prompt.
+
+
 
 Zip file contains two folders:
 
