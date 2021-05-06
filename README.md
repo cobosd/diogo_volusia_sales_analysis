@@ -6,7 +6,7 @@ Learning the crime statistics of a specific region can be interesting for differ
 
 New features added to this project are show below:
 
-nbr_crimes -----> 'Integer' that depicts the total number of crimes that happened within 1200ft of that specific parcel                                                         .
+nbr_crimes -----> 'Integer' that depicts the total number of crimes that happened within 1200ft of that specific parcel
 crime_desc -----> Feature of type 'text' which containg the description of nearest crime (ex: assault)
 crime_dist -----> 'Text' variable containing the distance (miles) to the nearest crime described in crime_desc
 crime_date -----> 'Date' variable that show year-month-day of the nearest crime 
