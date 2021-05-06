@@ -21,7 +21,7 @@ The methodology used to collect and determine the new attributes were based on p
 It is important to note, however, that regions seen in the map containing _zero_ crimes might have that statistic due to software limitations, not because they are 100% safe. The software can only translate a full address (street, city) or (street, zip code) into coordinates, but many of the crime instances occurred in the Volusia County Sherrif's land and therefore did not have a specific city disclosed as information.
 
 
-*------------------------------------------------------------------ABOUT THE FILES-------------------------------------------------------------------------------*
+*------------------------------------------------------------ABOUT THE FILES------------------------------------------------------------------*
 
 Add crime data from Volusia county (Florida) into a sales analysis table (crime_sales_analysis)
 
