@@ -1,4 +1,11 @@
-# diogo_volusia_sales_analysis
+# Project Description
+
+The goal of this repository is to determine and add crime information to each parcel within the sales_analysis table. All the information regarding crime occurrences were collected directly from the Volusia County Sheriff's Office website, meaning that the data in reliable.
+
+Learning the crime statistics of a specific region can be interesting for differentreasons. Perhaps you want to purchase a property but first you'd like to make sure the area is safe enough for your familiy, or maybe you simply want to study the demographics of a region and understand how that influences its safety.
+
+
+This repository 
 Add crime data from Volusia county (Florida) into a sales analysis table.
 
 Zip file contains two folders:
