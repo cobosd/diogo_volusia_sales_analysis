@@ -14,7 +14,7 @@ crime_dist -----> 'Text' variable containing the distance (miles) to the nearest
 
 crime_date -----> 'Date' variable that show year-month-day of the nearest crime 
 
-The crimes occurrences utilized to determine the features just decribed can be seen in the following image where they are plotted on the Volusia County make after having their address converted into geographical coordinates (longituda, latitude). 
+The crimes occurrences utilized to determine the features just decribed can be seen in the following image where they are plotted on the Volusia County make after having their address converted into geographical coordinates (longitude, latitude). 
 
 ![image](https://user-images.githubusercontent.com/82676042/117323410-dba24080-ae5c-11eb-8690-cde6029e787b.png)
 
