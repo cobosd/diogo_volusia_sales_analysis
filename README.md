@@ -2,7 +2,7 @@
 
 The goal of this repository is to determine and add crime information to each parcel within the sales_analysis table. All the information regarding crime occurrences were collected directly from the Volusia County Sheriff's Office website, meaning that the data in reliable.
 
-Learning the crime statistics of a specific region can be interesting for differentreasons. Perhaps you want to purchase a property but first you'd like to make sure the area is safe enough for your familiy, or maybe you simply want to study the demographics of a region and understand how that influences its safety.
+Learning the crime statistics of a specific region can be interesting for different reasons.
 
 New features added to this project are show below:
 
@@ -14,7 +14,7 @@ crime_dist -----> 'Text' variable containing the distance (miles) to the nearest
 
 crime_date -----> 'Date' variable that show year-month-day of the nearest crime 
 
-The crimes occurrences utilized to determine the features just decribed can be seen in the following image where they are plotted on the Volusia County make after having their address converted into geographical coordinates (longitude, latitude). 
+The crimes occurrences utilized to determine the features just decribed can be seen in the following image where they are plotted on the Volusia County map after having their address converted into geographical coordinates (longitude, latitude). 
 
 ![image](https://user-images.githubusercontent.com/82676042/117323410-dba24080-ae5c-11eb-8690-cde6029e787b.png)
 
