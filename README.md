@@ -1,4 +1,6 @@
-# Project Description
+# Description
+
+Research was conducted during Fall 2020. All data was collected then.
 
 The goal of this repository is to determine and add crime information to each parcel within the sales_analysis table. All the information regarding crime occurrences were collected directly from the Volusia County Sheriff's Office website, meaning that the data in reliable.
 
