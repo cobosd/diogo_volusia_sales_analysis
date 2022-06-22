@@ -23,20 +23,3 @@ The methodology used to collect and determine the new attributes were based on p
 
 It is important to note, however, that regions seen in the map containing _zero_ crimes might have that statistic due to software limitations, not because they are 100% safe. The software can only translate a full address (street, city) or (street, zip code) into coordinates, but many of the crime instances occurred in the Volusia County Sherrif's land and therefore did not have a specific city disclosed as information.
 
-
-*------------------------------------------------------------ABOUT THE FILES------------------------------------------------------------------*
-
-How to add crime data from Volusia county (Florida) into a sales analysis table to create a crime_sales_analysis table:
-
-"Volusia SA - Crime Table.pdf" is a short presentation taking you step by step on how to add crime_sales_analysis to your pgAdmin. It basically asks to download zip file in this repository and run a command on command prompt.
-
-
-
-Zip file contains two folders:
-
-1. add_new_sales_analysis:
-  this will create a new crime_sales_analysis table in your pgAdmin which contains information about crimes around each parcel of the original sales_analysis table.
- 
-2. create_crime_table [optional]:
-  create a new table that contains only information about crimes that happened within volusia county in the past 6 months. Concluding the steps in this folder is not
-  required to complete part 1 (add_new_sales_analysis).
